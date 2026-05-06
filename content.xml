@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050517383107KEOC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505173831GE3ZPB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto final B2 Competencia Digital</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA Los Ecosistemas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carmen María Pastor López</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este recurso educativo ha sido elaborado como parte del curso de Competencia Digital Docente (Nivel B2), con el objetivo de diseñar una Situación de Aprendizaje basada en el uso de metodologías activas y herramientas digitales para el estudio de los ecosistemas en Educación Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777995488279</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosslux2-3v3xx5344</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosslux2-3v3xx5344</odePageId>
+      <odeBlockId>block-1777901931790-riuzhpy65</odeBlockId>
+      <blockName>SdA Los Ecosistemas</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosslux2-3v3xx5344</odePageId>
+          <odeBlockId>block-1777901931790-riuzhpy65</odeBlockId>
+          <odeIdeviceId>idevice-1777901931786-w495xmnxc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/ecosistemas portada.webp" width="585" height="420" alt="" /></p>
+<p><br /></p>
+<p style="text-align: center;"><em><strong>"¿Te has preguntado cómo funciona la naturaleza a tu alrededor?"</strong></em></p>
+<p><br /></p>
+<p><strong>Curso</strong>: 5º de Primaria</p>
+<p><strong>Área</strong>: Conocimiento del Medio</p>
+<p><br /></p>
+<p style="text-align: right;"><strong>Realizado por</strong>: Carmen María Pastor López</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777901931786-w495xmnxc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/ecosistemas portada.webp\" width=\"585\" height=\"420\" alt=\"\" /></p>\n<p><br /></p>\n<p style=\"text-align: center;\"><em><strong>\"¿Te has preguntado cómo funciona la naturaleza a tu alrededor?\"</strong></em></p>\n<p><br /></p>\n<p><strong>Curso</strong>: 5º de Primaria</p>\n<p><strong>Área</strong>: Conocimiento del Medio</p>\n<p><br /></p>\n<p style=\"text-align: right;\"><strong>Realizado por</strong>: Carmen María Pastor López</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosslux6-v2abgl03v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosslux6-v2abgl03v</odePageId>
+      <odeBlockId>block-1777902591994-mcl68d6zw</odeBlockId>
+      <blockName>SdA Los Ecosistemas</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosslux6-v2abgl03v</odePageId>
+          <odeBlockId>block-1777902591994-mcl68d6zw</odeBlockId>
+          <odeIdeviceId>idevice-1777902591990-i8vscp079</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>●<strong> Título</strong><br />“Viajando por los ecosistemas”</p>
+<p><br />● <strong>Temática</strong><br />El tema principal del proyecto es el estudio de los ecosistemas.<br />Al ser la primera vez que los alumnos tienen contacto con este contenido, nos vamos a centrar en aspectos básicos como; las características de los paisajes de cada ecosistema, sus elementos (vegetación y fauna), los tipos de ecosistemas y la relación entre los seres vivos.</p>
+<p><br />● <strong>Nivel</strong><br />5º curso de Educación Primaria.</p>
+<p><br />● <strong>Temporalización</strong><br />El proyecto se llevará a cabo durante 5 sesiones de 1 hora cada una (aproximadamente) y quedará organizada de la siguiente manera:</p>
+<p><br />- <span style="text-decoration: underline;">Sesión 1</span>: Introducción y pautas del proyecto, y organización de los grupos.<br />- <span style="text-decoration: underline;">Sesión 2</span>: Búsqueda de información.<br />- <span style="text-decoration: underline;">Sesión 3</span>: Recopilación, selección y organización de los contenidos.<br />- <span style="text-decoration: underline;">Sesión 4</span>: Elaboración del producto digital en CANVA.<br />- <span style="text-decoration: underline;">Sesión 5</span>: Presentación en el aula y evaluación del docente.</p>
+<p><br />● <strong>Materias</strong><br />La materia principal es la de Conocimiento del Medio.<br />En un segundo plano, pero con gran afluencia, sería la asignatura de Lengua, al abarcar aspectos como la comprensión y expresión escrita.<br />Finalmente, aunque la Competencia Digital no se imparta como asignatura oficial, considero importante nombrarla ya que es la herramienta primordial para llevar a cabo este proyecto.</p>
+<p><br />● <strong>Idioma</strong><br />Tanto la búsqueda como la presentación y exposición del proyecto es en castellano.</p>
+<p><br />● <strong>Descripción</strong><br />Los alumnos, organizados en parejas, llevarán a cabo una investigación sobre distintos tipos de ecosistemas: terrestres, acuáticos y mixtos.<br />A lo largo del proyecto, se les proporcionará los portátiles del centro escolar para buscar información, seleccionar los contenidos más importantes y organizarlos para elaborar una presentación digital final en la aplicación de CANVA.<br />Durante el proceso, se hará hincapié y se trabajará el uso responsable de la tecnología, la búsqueda de información fiable, el trabajo cooperativo y la comunicación de contenidos de forma estructurada.<br />El producto final será presentado al resto de la clase en la pantalla digital del aula con una breve exposición oral de cada pareja.</p>
+<p><br />● <strong>Justificación</strong><br />Este proyecto se basa en la reflexión personal sobre mi práctica docente en el aula y en relación con el uso de la tecnología por parte del alumnado.<br />En mi experiencia anterior, la conclusión final es que el uso de herramientas digitales y el trabajo en grupo, favorecen la motivación y la implicación del alumnado en la adquisición de nuevos contenidos.<br />A su vez, se detectaron algunas dificultades relacionadas con el nivel de conocimientos digitales personales de cada alumno, la organización del trabajo de forma individual y el uso de herramientas digitales.</p>
+<p><br />Por ello, en esta proyecto se proponen <strong>mejoras</strong> como:<br />● Realizar las actividades en pequeños grupos en lugar de forma individual.<br />● Información concisa al principio de cada sesión con lo que se va a realizar durante la misma.<br />● Mayor acompañamiento durante el proceso.<br />● Posible asignación de roles dentro de las parejas.<br />Asimismo, se tendrá en cuenta la necesidad de adaptar la actividad al nivel de competencia digital del alumnado, incorporando orientación en la búsqueda y selección de información.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777902591990-i8vscp079","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>●<strong> Título</strong><br />“Viajando por los ecosistemas”</p>\n<p><br />● <strong>Temática</strong><br />El tema principal del proyecto es el estudio de los ecosistemas.<br />Al ser la primera vez que los alumnos tienen contacto con este contenido, nos vamos a centrar en aspectos básicos como; las características de los paisajes de cada ecosistema, sus elementos (vegetación y fauna), los tipos de ecosistemas y la relación entre los seres vivos.</p>\n<p><br />● <strong>Nivel</strong><br />5º curso de Educación Primaria.</p>\n<p><br />● <strong>Temporalización</strong><br />El proyecto se llevará a cabo durante 5 sesiones de 1 hora cada una (aproximadamente) y quedará organizada de la siguiente manera:</p>\n<p><br />- <span style=\"text-decoration: underline;\">Sesión 1</span>: Introducción y pautas del proyecto, y organización de los grupos.<br />- <span style=\"text-decoration: underline;\">Sesión 2</span>: Búsqueda de información.<br />- <span style=\"text-decoration: underline;\">Sesión 3</span>: Recopilación, selección y organización de los contenidos.<br />- <span style=\"text-decoration: underline;\">Sesión 4</span>: Elaboración del producto digital en CANVA.<br />- <span style=\"text-decoration: underline;\">Sesión 5</span>: Presentación en el aula y evaluación del docente.</p>\n<p><br />● <strong>Materias</strong><br />La materia principal es la de Conocimiento del Medio.<br />En un segundo plano, pero con gran afluencia, sería la asignatura de Lengua, al abarcar aspectos como la comprensión y expresión escrita.<br />Finalmente, aunque la Competencia Digital no se imparta como asignatura oficial, considero importante nombrarla ya que es la herramienta primordial para llevar a cabo este proyecto.</p>\n<p><br />● <strong>Idioma</strong><br />Tanto la búsqueda como la presentación y exposición del proyecto es en castellano.</p>\n<p><br />● <strong>Descripción</strong><br />Los alumnos, organizados en parejas, llevarán a cabo una investigación sobre distintos tipos de ecosistemas: terrestres, acuáticos y mixtos.<br />A lo largo del proyecto, se les proporcionará los portátiles del centro escolar para buscar información, seleccionar los contenidos más importantes y organizarlos para elaborar una presentación digital final en la aplicación de CANVA.<br />Durante el proceso, se hará hincapié y se trabajará el uso responsable de la tecnología, la búsqueda de información fiable, el trabajo cooperativo y la comunicación de contenidos de forma estructurada.<br />El producto final será presentado al resto de la clase en la pantalla digital del aula con una breve exposición oral de cada pareja.</p>\n<p><br />● <strong>Justificación</strong><br />Este proyecto se basa en la reflexión personal sobre mi práctica docente en el aula y en relación con el uso de la tecnología por parte del alumnado.<br />En mi experiencia anterior, la conclusión final es que el uso de herramientas digitales y el trabajo en grupo, favorecen la motivación y la implicación del alumnado en la adquisición de nuevos contenidos.<br />A su vez, se detectaron algunas dificultades relacionadas con el nivel de conocimientos digitales personales de cada alumno, la organización del trabajo de forma individual y el uso de herramientas digitales.</p>\n<p><br />Por ello, en esta proyecto se proponen <strong>mejoras</strong> como:<br />● Realizar las actividades en pequeños grupos en lugar de forma individual.<br />● Información concisa al principio de cada sesión con lo que se va a realizar durante la misma.<br />● Mayor acompañamiento durante el proceso.<br />● Posible asignación de roles dentro de las parejas.<br />Asimismo, se tendrá en cuenta la necesidad de adaptar la actividad al nivel de competencia digital del alumnado, incorporando orientación en la búsqueda y selección de información.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosslux8-s2clnu5xq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad Digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosslux8-s2clnu5xq</odePageId>
+      <odeBlockId>block-1777904419061-85bpxb9pk</odeBlockId>
+      <blockName>¿Es internet un lugar seguro?</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosslux8-s2clnu5xq</odePageId>
+          <odeBlockId>block-1777904419061-85bpxb9pk</odeBlockId>
+          <odeIdeviceId>idevice-1777904419058-t7lgttfwl</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777904419058-t7lgttfwl" title="" href="{{context_path}}/content/resources/peligros internet.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/peligros internet.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777904419058-t7lgttfwl" title="" href="{{context_path}}/content/resources/peligros-internet-seguridad-online-1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/peligros-internet-seguridad-online-1.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777904419058-t7lgttfwl" title="" href="{{context_path}}/content/resources/riesgos-internet-nic3b1os.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/riesgos-internet-nic3b1os.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777904419058-t7lgttfwl","img_0":{"img":"{{context_path}}/content/resources/peligros internet.jpg","thumbnail":"{{context_path}}/content/resources/peligros internet.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/peligros-internet-seguridad-online-1.jpg","thumbnail":"{{context_path}}/content/resources/peligros-internet-seguridad-online-1.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/riesgos-internet-nic3b1os.webp","thumbnail":"{{context_path}}/content/resources/riesgos-internet-nic3b1os.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosslux8-s2clnu5xq</odePageId>
+      <odeBlockId>block-1777903476883-nn2yovklz</odeBlockId>
+      <blockName>Consejos para protegerme de los riesgos de internet</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosslux8-s2clnu5xq</odePageId>
+          <odeBlockId>block-1777903476883-nn2yovklz</odeBlockId>
+          <odeIdeviceId>idevice-1777903476880-kne5f5sab</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.023%;">
+<tbody>
+<tr>
+<td style="width: 19.9768%; text-align: center;"><strong>DATOS PERSONALES</strong></td>
+<td style="width: 19.9768%;"><strong>USO RESPONSABLE</strong></td>
+<td style="width: 19.9768%; text-align: center;"><strong>EDUCACIÓN Y RESPETO</strong></td>
+<td style="width: 19.9768%; text-align: center;"><strong>PRUDENCIA</strong></td>
+<td style="width: 19.9768%; text-align: center;"><strong>SI ALGO VA MAL...</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9768%;">
+<p>No compartas tu nombre completo, dirección o número de teléfono.</p>
+<p>Usa contraseñas seguras y no las compartas con nadie.</p>
+<p>NO subas fotos tuyas.</p>
+</td>
+<td style="width: 19.9768%; text-align: left;">
+<p>Utiliza páginas webs seguras y adecuadas.</p>
+<p>NO descargues archivos desconocidos y sin permiso.</p>
+</td>
+<td style="width: 19.9768%;">
+<p>Se respetuoso con tus<br />comentatrios en trabajos o<br />fotos.</p>
+<p><br />Evita el ciberacoso.</p>
+<p><br />NO copies fotos de otras<br />personas sin permiso.</p>
+</td>
+<td style="width: 19.9768%;">
+<p>Piensa antes de publicar.</p>
+<p><br />Todo lo que subas/escribas<br />puede permanecer en<br />internet.</p>
+</td>
+<td style="width: 19.9768%;">
+<p>Avisa a un adulto.</p>
+<p><br />No respondas mensajes<br />extraños.</p>
+<p><br />Intenta guardar pruebas.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777903476880-kne5f5sab","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.023%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9768%; text-align: center;\"><strong>DATOS PERSONALES</strong></td>\n<td style=\"width: 19.9768%;\"><strong>USO RESPONSABLE</strong></td>\n<td style=\"width: 19.9768%; text-align: center;\"><strong>EDUCACIÓN Y RESPETO</strong></td>\n<td style=\"width: 19.9768%; text-align: center;\"><strong>PRUDENCIA</strong></td>\n<td style=\"width: 19.9768%; text-align: center;\"><strong>SI ALGO VA MAL...</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9768%;\">\n<p>No compartas tu nombre completo, dirección o número de teléfono.</p>\n<p>Usa contraseñas seguras y no las compartas con nadie.</p>\n<p>NO subas fotos tuyas.</p>\n</td>\n<td style=\"width: 19.9768%; text-align: left;\">\n<p>Utiliza páginas webs seguras y adecuadas.</p>\n<p>NO descargues archivos desconocidos y sin permiso.</p>\n</td>\n<td style=\"width: 19.9768%;\">\n<p>Se respetuoso con tus<br />comentatrios en trabajos o<br />fotos.</p>\n<p><br />Evita el ciberacoso.</p>\n<p><br />NO copies fotos de otras<br />personas sin permiso.</p>\n</td>\n<td style=\"width: 19.9768%;\">\n<p>Piensa antes de publicar.</p>\n<p><br />Todo lo que subas/escribas<br />puede permanecer en<br />internet.</p>\n</td>\n<td style=\"width: 19.9768%;\">\n<p>Avisa a un adulto.</p>\n<p><br />No respondas mensajes<br />extraños.</p>\n<p><br />Intenta guardar pruebas.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxa-fuy0vhh8f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto Final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxa-fuy0vhh8f</odePageId>
+      <odeBlockId>block-1777912503161-5u2mc1l71</odeBlockId>
+      <blockName>Te convertirás en investigador de ecosistemas...</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxa-fuy0vhh8f</odePageId>
+          <odeBlockId>block-1777912503161-5u2mc1l71</odeBlockId>
+          <odeIdeviceId>idevice-1777912503159-jio68t0qk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización del producto final de mi SdA sobre los ecosistemas, dirigida a alumnado de 5º de Educación Primaria, propongo el uso de herramientas digitales como Canva y Google Presentaciones.</p>
+<p>El objetivo principal del uso de estas herramientas es que el alumnado pueda crear un producto final digital (presentación, infografía o mural digital) en el que recoja la información trabajada sobre los ecosistemas, sus elementos y las relaciones entre ellos, favoreciendo así la organización de la información y el desarrollo de la competencia digital.</p>
+<p>La elección de estas herramientas se justifica, en primer lugar, por su facilidad de uso, ya que cuentan con enlaces intuitivos y accesibles para alumnado de esta edad. Además, permiten trabajar tanto de forma individual como cooperativa, lo que facilita la aplicación de metodologías activas en el aula.</p>
+<p>Por otro lado, se trata de herramientas versátiles, que ofrecen múltiples posibilidades (presentaciones, infografías, carteles, etc.), lo que permite adaptarse a diferentes ritmos y estilos de aprendizaje del alumnado.</p>
+<p>Asimismo, su uso es adecuado al contexto del centro, ya que son herramientas gratuitas y accesibles desde distintos dispositivos, lo que favorece su implementación en el aula sin necesidad de recursos específicos.</p>
+<p>Finalmente, estas herramientas contribuyen al desarrollo de la competencia digital del alumnado, permitiéndoles no solo consumir información, sino también crear contenidos digitales de manera autónoma y significativa.</p>
+<p><img src="{{context_path}}/content/resources/logo presentaciones.png" width="229" height="220" alt="" /> <img src="{{context_path}}/content/resources/canva.png" width="148" height="131" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777912503159-jio68t0qk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización del producto final de mi SdA sobre los ecosistemas, dirigida a alumnado de 5º de Educación Primaria, propongo el uso de herramientas digitales como Canva y Google Presentaciones.</p>\n<p>El objetivo principal del uso de estas herramientas es que el alumnado pueda crear un producto final digital (presentación, infografía o mural digital) en el que recoja la información trabajada sobre los ecosistemas, sus elementos y las relaciones entre ellos, favoreciendo así la organización de la información y el desarrollo de la competencia digital.</p>\n<p>La elección de estas herramientas se justifica, en primer lugar, por su facilidad de uso, ya que cuentan con enlaces intuitivos y accesibles para alumnado de esta edad. Además, permiten trabajar tanto de forma individual como cooperativa, lo que facilita la aplicación de metodologías activas en el aula.</p>\n<p>Por otro lado, se trata de herramientas versátiles, que ofrecen múltiples posibilidades (presentaciones, infografías, carteles, etc.), lo que permite adaptarse a diferentes ritmos y estilos de aprendizaje del alumnado.</p>\n<p>Asimismo, su uso es adecuado al contexto del centro, ya que son herramientas gratuitas y accesibles desde distintos dispositivos, lo que favorece su implementación en el aula sin necesidad de recursos específicos.</p>\n<p>Finalmente, estas herramientas contribuyen al desarrollo de la competencia digital del alumnado, permitiéndoles no solo consumir información, sino también crear contenidos digitales de manera autónoma y significativa.</p>\n<p><img src=\"{{context_path}}/content/resources/logo presentaciones.png\" width=\"229\" height=\"220\" alt=\"\" /> <img src=\"{{context_path}}/content/resources/canva.png\" width=\"148\" height=\"131\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxb-88b48im1z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxb-88b48im1z</odePageId>
+      <odeBlockId>block-1777912978176-5obask0v0</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxb-88b48im1z</odePageId>
+          <odeBlockId>block-1777912978176-5obask0v0</odeBlockId>
+          <odeIdeviceId>idevice-1777912978176-3p2nqcqhx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este espacio encontrarás una selección de recursos digitales que te ayudarán a investigar y comprender mejor los ecosistemas. A través de vídeos, imágenes, páginas web y actividades interactivas, podrás aprender de forma autónoma y a tu ritmo.</p>
+<p>Este Padlet ha sido organizado para que tengas toda la información necesaria para realizar las tareas del proyecto, resolver dudas y ampliar tus conocimientos.</p>
+<p>Recuerda hacer un uso responsable de los recursos digitales, respetando siempre las normas de seguridad y citando la información que utilices en tus trabajos</p>
+<p><a href="https://padlet.com/cpastorlopez21/recursos-para-investigar-los-ecosistemas-5a8o806r8a5ot4t3" title="">https://padlet.com/cpastorlopez21/recursos-para-investigar-los-ecosistemas-5a8o806r8a5ot4t3</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777912978176-3p2nqcqhx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este espacio encontrarás una selección de recursos digitales que te ayudarán a investigar y comprender mejor los ecosistemas. A través de vídeos, imágenes, páginas web y actividades interactivas, podrás aprender de forma autónoma y a tu ritmo.</p>\n<p>Este Padlet ha sido organizado para que tengas toda la información necesaria para realizar las tareas del proyecto, resolver dudas y ampliar tus conocimientos.</p>\n<p>Recuerda hacer un uso responsable de los recursos digitales, respetando siempre las normas de seguridad y citando la información que utilices en tus trabajos</p>\n<p><a href=\"https://padlet.com/cpastorlopez21/recursos-para-investigar-los-ecosistemas-5a8o806r8a5ot4t3\" title=\"\">https://padlet.com/cpastorlopez21/recursos-para-investigar-los-ecosistemas-5a8o806r8a5ot4t3</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mossluxb-88b48im1z</odePageId>
+      <odeBlockId>block-1777913253765-koq05xk4f</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxb-88b48im1z</odePageId>
+          <odeBlockId>block-1777913253765-koq05xk4f</odeBlockId>
+          <odeIdeviceId>idevice-1777913253762-j43i4fqbb</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777913253762-j43i4fqbb" title="" href="{{context_path}}/content/resources/sample_0 (5).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/sample_0 (5).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777913253762-j43i4fqbb" title="" href="{{context_path}}/content/resources/sample_0 (4).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/sample_0 (4).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777913253762-j43i4fqbb" title="" href="{{context_path}}/content/resources/sample_0 (3).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/sample_0 (3).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1777913253762-j43i4fqbb" title="" href="{{context_path}}/content/resources/sample_0 (2).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/sample_0 (2).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1777913253762-j43i4fqbb" title="" href="{{context_path}}/content/resources/sample_0 (1).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/sample_0 (1).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1777913253762-j43i4fqbb" title="" href="{{context_path}}/content/resources/sample_0.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/sample_0.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777913253762-j43i4fqbb","img_0":{"img":"{{context_path}}/content/resources/sample_0 (5).png","thumbnail":"{{context_path}}/content/resources/sample_0 (5).png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/sample_0 (4).png","thumbnail":"{{context_path}}/content/resources/sample_0 (4).png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/sample_0 (3).png","thumbnail":"{{context_path}}/content/resources/sample_0 (3).png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/sample_0 (2).png","thumbnail":"{{context_path}}/content/resources/sample_0 (2).png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/sample_0 (1).png","thumbnail":"{{context_path}}/content/resources/sample_0 (1).png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/sample_0.png","thumbnail":"{{context_path}}/content/resources/sample_0.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxe-xqv7rwh70</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxe-xqv7rwh70</odePageId>
+      <odeBlockId>block-1777913436824-mbo598tzx</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxe-xqv7rwh70</odePageId>
+          <odeBlockId>block-1777913436824-mbo598tzx</odeBlockId>
+          <odeIdeviceId>idevice-1777913436821-vi1f8mo95</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este espacio recoge una selección de herramientas, aplicaciones y recursos digitales útiles para la gestión del aula y el desarrollo de este proyecto. Incluye materiales para la planificación, la evaluación, la creación de contenidos y el trabajo colaborativo.</p>
+<p>El Symbaloo permite acceder de forma rápida y organizada a todos estos recursos, facilitando la labor docente y fomentando la integración de las tecnologías digitales en el aula de manera eficaz.</p>
+<p>Estos materiales pueden servir de apoyo, inspiración o ampliación para otros docentes interesados en trabajar los ecosistemas mediante metodologías activas y el uso de herramientas digitales.</p>
+<p><a href="https://www.symbaloo.com/mix/herramientas-digitales-5trb" title="">https://www.symbaloo.com/mix/herramientas-digitales-5trb</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777913436821-vi1f8mo95","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este espacio recoge una selección de herramientas, aplicaciones y recursos digitales útiles para la gestión del aula y el desarrollo de este proyecto. Incluye materiales para la planificación, la evaluación, la creación de contenidos y el trabajo colaborativo.</p>\n<p>El Symbaloo permite acceder de forma rápida y organizada a todos estos recursos, facilitando la labor docente y fomentando la integración de las tecnologías digitales en el aula de manera eficaz.</p>\n<p>Estos materiales pueden servir de apoyo, inspiración o ampliación para otros docentes interesados en trabajar los ecosistemas mediante metodologías activas y el uso de herramientas digitales.</p>\n<p><a href=\"https://www.symbaloo.com/mix/herramientas-digitales-5trb\" title=\"\">https://www.symbaloo.com/mix/herramientas-digitales-5trb</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxg-d8wp04dz2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia de Actividades</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia de Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia de Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxg-d8wp04dz2</odePageId>
+      <odeBlockId>block-1777913901704-2trgn23o9</odeBlockId>
+      <blockName>SdA Los Ecosistemas</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxg-d8wp04dz2</odePageId>
+          <odeBlockId>block-1777913901704-2trgn23o9</odeBlockId>
+          <odeIdeviceId>idevice-1777913901703-rw3hdvju1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/7.1 Línea temporal_page-0001.jpg" width="1250" height="3125" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777913901703-rw3hdvju1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/7.1 Línea temporal_page-0001.jpg\" width=\"1250\" height=\"3125\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxh-tge8xnuti</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxh-tge8xnuti</odePageId>
+      <odeBlockId>block-1777914122564-i18dww5uh</odeBlockId>
+      <blockName>SdA Los Ecosistemas</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxh-tge8xnuti</odePageId>
+          <odeBlockId>block-1777914122564-i18dww5uh</odeBlockId>
+          <odeIdeviceId>idevice-1777914122563-7njigz4uq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 19.9704%; text-align: center;"><strong>TAREA</strong><br /><br /></td>
+<td style="width: 19.9704%; text-align: center;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 19.9704%; text-align: center;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.9704%; text-align: center;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 19.9764%; text-align: center;"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9704%;">Activación de conocimientos previos (lluvia de ideas + vídeo).<br /></td>
+<td style="width: 19.9704%;">Identificar los elementos básicos de un ecosistema.</td>
+<td style="width: 19.9704%;">Gran grupo.</td>
+<td style="width: 19.9704%;">1 sesión</td>
+<td style="width: 19.9764%;">Pizarra digital/ Youtube</td>
+</tr>
+<tr>
+<td style="width: 19.9704%;">Investigación sobre ecosistemas.<br /></td>
+<td style="width: 19.9704%;">Buscar, seleccionar y comprender información relevante.</td>
+<td style="width: 19.9704%;">Pequeños grupos</td>
+<td style="width: 19.9704%;">1-2 sesiones.</td>
+<td style="width: 19.9764%;">Tablets/ Google</td>
+</tr>
+<tr>
+<td style="width: 19.9704%;">Organización de la información.<br /></td>
+<td style="width: 19.9704%;">Clasificar los elementos de un ecosistema y sus relaciones.</td>
+<td style="width: 19.9704%;">Grupos cooperativos.</td>
+<td style="width: 19.9704%;">1 sesión</td>
+<td style="width: 19.9764%;">Google Docs.</td>
+</tr>
+<tr>
+<td style="width: 19.9704%;">Diseño del producto final.<br /></td>
+<td style="width: 19.9704%;">Planificar la elaboración de un contenido digital.</td>
+<td style="width: 19.9704%;">Grupos.</td>
+<td style="width: 19.9704%;">1 sesión.</td>
+<td style="width: 19.9764%;">Canva/ Google Presentaciones.</td>
+</tr>
+<tr>
+<td style="width: 19.9704%;">Elaboración del producto.<br /></td>
+<td style="width: 19.9704%;">Crear contenidos digitales sobres ecosistemas.</td>
+<td style="width: 19.9704%;">Grupos</td>
+<td style="width: 19.9704%;">2 sesiones.</td>
+<td style="width: 19.9764%;">Canva.</td>
+</tr>
+<tr>
+<td style="width: 19.9704%;">Revisión del trabajo.<br /></td>
+<td style="width: 19.9704%;">Revisar y mejorar el contenido elaborado.</td>
+<td style="width: 19.9704%;">Grupos</td>
+<td style="width: 19.9704%;">1 sesión</td>
+<td style="width: 19.9764%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9704%;">.Exposición oral.<br /></td>
+<td style="width: 19.9704%;">Comunicar información de forma clara y organizada.</td>
+<td style="width: 19.9704%;">Gran grupo.</td>
+<td style="width: 19.9704%;">1 sesión.</td>
+<td style="width: 19.9764%;">Pizarra digital</td>
+</tr>
+<tr>
+<td style="width: 19.9704%;">Evaluación (autoevaluación y coevaluación)<br /></td>
+<td style="width: 19.9704%;">Reflexionar sobre el propio aprendizaje.</td>
+<td style="width: 19.9704%;">Individual/ grupo</td>
+<td style="width: 19.9704%;">1 sesión</td>
+<td style="width: 19.9764%;">Formularios Google/ rúbrica.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914122563-7njigz4uq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9704%; text-align: center;\"><strong>TAREA</strong><br /><br /></td>\n<td style=\"width: 19.9704%; text-align: center;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 19.9704%; text-align: center;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.9704%; text-align: center;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 19.9764%; text-align: center;\"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\">Activación de conocimientos previos (lluvia de ideas + vídeo).<br /></td>\n<td style=\"width: 19.9704%;\">Identificar los elementos básicos de un ecosistema.</td>\n<td style=\"width: 19.9704%;\">Gran grupo.</td>\n<td style=\"width: 19.9704%;\">1 sesión</td>\n<td style=\"width: 19.9764%;\">Pizarra digital/ Youtube</td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\">Investigación sobre ecosistemas.<br /></td>\n<td style=\"width: 19.9704%;\">Buscar, seleccionar y comprender información relevante.</td>\n<td style=\"width: 19.9704%;\">Pequeños grupos</td>\n<td style=\"width: 19.9704%;\">1-2 sesiones.</td>\n<td style=\"width: 19.9764%;\">Tablets/ Google</td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\">Organización de la información.<br /></td>\n<td style=\"width: 19.9704%;\">Clasificar los elementos de un ecosistema y sus relaciones.</td>\n<td style=\"width: 19.9704%;\">Grupos cooperativos.</td>\n<td style=\"width: 19.9704%;\">1 sesión</td>\n<td style=\"width: 19.9764%;\">Google Docs.</td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\">Diseño del producto final.<br /></td>\n<td style=\"width: 19.9704%;\">Planificar la elaboración de un contenido digital.</td>\n<td style=\"width: 19.9704%;\">Grupos.</td>\n<td style=\"width: 19.9704%;\">1 sesión.</td>\n<td style=\"width: 19.9764%;\">Canva/ Google Presentaciones.</td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\">Elaboración del producto.<br /></td>\n<td style=\"width: 19.9704%;\">Crear contenidos digitales sobres ecosistemas.</td>\n<td style=\"width: 19.9704%;\">Grupos</td>\n<td style=\"width: 19.9704%;\">2 sesiones.</td>\n<td style=\"width: 19.9764%;\">Canva.</td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\">Revisión del trabajo.<br /></td>\n<td style=\"width: 19.9704%;\">Revisar y mejorar el contenido elaborado.</td>\n<td style=\"width: 19.9704%;\">Grupos</td>\n<td style=\"width: 19.9704%;\">1 sesión</td>\n<td style=\"width: 19.9764%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\">.Exposición oral.<br /></td>\n<td style=\"width: 19.9704%;\">Comunicar información de forma clara y organizada.</td>\n<td style=\"width: 19.9704%;\">Gran grupo.</td>\n<td style=\"width: 19.9704%;\">1 sesión.</td>\n<td style=\"width: 19.9764%;\">Pizarra digital</td>\n</tr>\n<tr>\n<td style=\"width: 19.9704%;\">Evaluación (autoevaluación y coevaluación)<br /></td>\n<td style=\"width: 19.9704%;\">Reflexionar sobre el propio aprendizaje.</td>\n<td style=\"width: 19.9704%;\">Individual/ grupo</td>\n<td style=\"width: 19.9704%;\">1 sesión</td>\n<td style=\"width: 19.9764%;\">Formularios Google/ rúbrica.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxi-lwxl8lwf8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxi-lwxl8lwf8</odePageId>
+      <odeBlockId>block-1777990143485-1os6u4sz6</odeBlockId>
+      <blockName>Uso de los instrumentos de evaluación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxi-lwxl8lwf8</odePageId>
+          <odeBlockId>block-1777990143485-1os6u4sz6</odeBlockId>
+          <odeIdeviceId>idevice-1777990143456-vumr61kb7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los instrumentos elegidos para la evaluación de la SdA son una rúbrica y una diana de autoevaluación, que son explicados a continuación.</p>
+<p>Las rúbricas se utilizarán a lo largo del desarrollo del proyecto, especialmente en aquellas tareas en las que el alumnado deba crear un producto propio, como exposiciones, trabajos en grupo o el producto final.</p>
+<p>Su finalidad es orientar al alumnado sobre qué se espera de su trabajo, facilitando una mayor comprensión de los criterios de evaluación. Además, permiten valorar de forma objetiva y transparente el proceso y el resultado, ayudando tanto al profesorado como al alumnado a identificar los logros alcanzados y los aspectos que pueden mejorarse.</p>
+<p>Asimismo, las rúbricas fomentan la autoevaluación y la coevaluación, favoreciendo la reflexión sobre el propio aprendizaje y el desarrollo de la autonomía.</p>
+<p>La diana de autoevaluación se utilizará al finalizar determinadas tareas y, especialmente, al concluir el proyecto, con el objetivo de que el alumnado reflexione sobre su propio aprendizaje.</p>
+<p>Este instrumento permite valorar de forma visual y sencilla aspectos como la participación, el esfuerzo, la comprensión de los contenidos o el trabajo en equipo. De este modo, el alumnado puede identificar sus fortalezas y aquellos aspectos en los que necesita mejorar.</p>
+<p>Además, la diana fomenta la autoevaluación y la toma de conciencia sobre el propio proceso de aprendizaje, contribuyendo al desarrollo de la autonomía y la responsabilidad del alumnado.</p>
+<p>A continuación, en el siguiente apartado, se pueden observar diferentes imágenes de la información citada y ejemplos de ambos instrumentos para la evaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777990143456-vumr61kb7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los instrumentos elegidos para la evaluación de la SdA son una rúbrica y una diana de autoevaluación, que son explicados a continuación.</p>\n<p>Las rúbricas se utilizarán a lo largo del desarrollo del proyecto, especialmente en aquellas tareas en las que el alumnado deba crear un producto propio, como exposiciones, trabajos en grupo o el producto final.</p>\n<p>Su finalidad es orientar al alumnado sobre qué se espera de su trabajo, facilitando una mayor comprensión de los criterios de evaluación. Además, permiten valorar de forma objetiva y transparente el proceso y el resultado, ayudando tanto al profesorado como al alumnado a identificar los logros alcanzados y los aspectos que pueden mejorarse.</p>\n<p>Asimismo, las rúbricas fomentan la autoevaluación y la coevaluación, favoreciendo la reflexión sobre el propio aprendizaje y el desarrollo de la autonomía.</p>\n<p>La diana de autoevaluación se utilizará al finalizar determinadas tareas y, especialmente, al concluir el proyecto, con el objetivo de que el alumnado reflexione sobre su propio aprendizaje.</p>\n<p>Este instrumento permite valorar de forma visual y sencilla aspectos como la participación, el esfuerzo, la comprensión de los contenidos o el trabajo en equipo. De este modo, el alumnado puede identificar sus fortalezas y aquellos aspectos en los que necesita mejorar.</p>\n<p>Además, la diana fomenta la autoevaluación y la toma de conciencia sobre el propio proceso de aprendizaje, contribuyendo al desarrollo de la autonomía y la responsabilidad del alumnado.</p>\n<p>A continuación, en el siguiente apartado, se pueden observar diferentes imágenes de la información citada y ejemplos de ambos instrumentos para la evaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mossluxi-lwxl8lwf8</odePageId>
+      <odeBlockId>block-1777990664515-4oa86ncx7</odeBlockId>
+      <blockName>Haz clic para ver las imágenes</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxi-lwxl8lwf8</odePageId>
+          <odeBlockId>block-1777990664515-4oa86ncx7</odeBlockId>
+          <odeIdeviceId>idevice-1777990664469-hxkuw6qaj</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777990664469-hxkuw6qaj" title="" href="{{context_path}}/content/resources/rubrica.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/rubrica.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777990664469-hxkuw6qaj" title="" href="{{context_path}}/content/resources/dianarubrica.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/dianarubrica.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777990664469-hxkuw6qaj" title="" href="{{context_path}}/content/resources/dianaautoevaluacion.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/dianaautoevaluacion.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1777990664469-hxkuw6qaj" title="" href="{{context_path}}/content/resources/ejemplorubrica.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/ejemplorubrica.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777990664469-hxkuw6qaj","img_0":{"img":"{{context_path}}/content/resources/rubrica.jpg","thumbnail":"{{context_path}}/content/resources/rubrica.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/dianarubrica.jpg","thumbnail":"{{context_path}}/content/resources/dianarubrica.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/dianaautoevaluacion.jpg","thumbnail":"{{context_path}}/content/resources/dianaautoevaluacion.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/ejemplorubrica.jpg","thumbnail":"{{context_path}}/content/resources/ejemplorubrica.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxk-6e8nprcfk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxk-6e8nprcfk</odePageId>
+      <odeBlockId>block-1777991064716-2tn7wrhcx</odeBlockId>
+      <blockName>SdA Los Ecosistemas</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxk-6e8nprcfk</odePageId>
+          <odeBlockId>block-1777991064716-2tn7wrhcx</odeBlockId>
+          <odeIdeviceId>idevice-1777991064712-yo02wh61b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto didáctico, centrado en el estudio de los ecosistemas, está dirigido al alumnado de 5º de Educación Primaria dentro del área de Ciencias Naturales. Se basa en una metodología activa y participativa, en la que el alumnado es el protagonista de su propio aprendizaje a través de la investigación, el trabajo cooperativo y el uso de herramientas digitales.</p>
+<p>Las tareas propuestas están secuenciadas de forma progresiva, permitiendo al alumnado adquirir los conocimientos necesarios para la elaboración del producto final. Cada una de estas tareas está vinculada a los criterios de evaluación establecidos, lo que garantiza una evaluación coherente, objetiva y alineada con el currículo.</p>
+<p>A lo largo del proyecto se emplean diferentes instrumentos de evaluación, como rúbricas y dianas de autoevaluación, que facilitan tanto la valoración del aprendizaje como la reflexión del alumnado sobre su propio proceso.</p>
+<p>Se recomienda al profesorado adaptar las actividades en función de las características del grupo, así como fomentar un clima de aula inclusivo, participativo y respetuoso. Asimismo, el uso de herramientas digitales debe realizarse de manera responsable, segura y crítica, promoviendo el desarrollo de la competencia digital del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777991064712-yo02wh61b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto didáctico, centrado en el estudio de los ecosistemas, está dirigido al alumnado de 5º de Educación Primaria dentro del área de Ciencias Naturales. Se basa en una metodología activa y participativa, en la que el alumnado es el protagonista de su propio aprendizaje a través de la investigación, el trabajo cooperativo y el uso de herramientas digitales.</p>\n<p>Las tareas propuestas están secuenciadas de forma progresiva, permitiendo al alumnado adquirir los conocimientos necesarios para la elaboración del producto final. Cada una de estas tareas está vinculada a los criterios de evaluación establecidos, lo que garantiza una evaluación coherente, objetiva y alineada con el currículo.</p>\n<p>A lo largo del proyecto se emplean diferentes instrumentos de evaluación, como rúbricas y dianas de autoevaluación, que facilitan tanto la valoración del aprendizaje como la reflexión del alumnado sobre su propio proceso.</p>\n<p>Se recomienda al profesorado adaptar las actividades en función de las características del grupo, así como fomentar un clima de aula inclusivo, participativo y respetuoso. Asimismo, el uso de herramientas digitales debe realizarse de manera responsable, segura y crítica, promoviendo el desarrollo de la competencia digital del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxl-2meq3n326</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la Diversidad (DUA)</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la Diversidad (DUA)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la Diversidad (DUA)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxl-2meq3n326</odePageId>
+      <odeBlockId>block-1777991157646-zybds6t2p</odeBlockId>
+      <blockName>SdA Los Ecosistemas</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxl-2meq3n326</odePageId>
+          <odeBlockId>block-1777991157646-zybds6t2p</odeBlockId>
+          <odeIdeviceId>idevice-1777991157643-st4bnzleu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto ha sido diseñado teniendo en cuenta los principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de garantizar la participación y el aprendizaje de todo el alumnado.</p>
+<p>Para ello, se ofrecen múltiples formas de representación de la información, a través de recursos visuales, audiovisuales y textuales, facilitando la comprensión de los contenidos. Asimismo, se proponen diversas formas de acción y expresión, permitiendo al alumnado demostrar su aprendizaje mediante diferentes formatos, como presentaciones, murales o exposiciones orales.</p>
+<p>En cuanto a la implicación, se plantean actividades motivadoras y contextualizadas, que fomentan la participación activa y el trabajo cooperativo. Además, se contemplan diferentes agrupamientos (individual, parejas y grupos), así como la flexibilización de tiempos y tareas, para adaptarse a los distintos ritmos de aprendizaje.</p>
+<p>También se prevén medidas de apoyo, como el acompañamiento del docente, el uso de herramientas digitales accesibles y la adaptación de materiales cuando sea necesario, garantizando así una educación inclusiva y equitativa</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777991157643-st4bnzleu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto ha sido diseñado teniendo en cuenta los principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de garantizar la participación y el aprendizaje de todo el alumnado.</p>\n<p>Para ello, se ofrecen múltiples formas de representación de la información, a través de recursos visuales, audiovisuales y textuales, facilitando la comprensión de los contenidos. Asimismo, se proponen diversas formas de acción y expresión, permitiendo al alumnado demostrar su aprendizaje mediante diferentes formatos, como presentaciones, murales o exposiciones orales.</p>\n<p>En cuanto a la implicación, se plantean actividades motivadoras y contextualizadas, que fomentan la participación activa y el trabajo cooperativo. Además, se contemplan diferentes agrupamientos (individual, parejas y grupos), así como la flexibilización de tiempos y tareas, para adaptarse a los distintos ritmos de aprendizaje.</p>\n<p>También se prevén medidas de apoyo, como el acompañamiento del docente, el uso de herramientas digitales accesibles y la adaptación de materiales cuando sea necesario, garantizando así una educación inclusiva y equitativa</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mossluxl-dcbfmjskc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mossluxl-dcbfmjskc</odePageId>
+      <odeBlockId>block-1777991254797-wdf2nnwi6</odeBlockId>
+      <blockName>SdA Los Ecosistemas</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mossluxl-dcbfmjskc</odePageId>
+          <odeBlockId>block-1777991254797-wdf2nnwi6</odeBlockId>
+          <odeIdeviceId>idevice-1777991254794-xdlr5sz60</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong>: Carmen María Pastor López</p>
+<p><strong>Título del proyecto</strong>: Los ecosistemas</p>
+<p><strong>Descripción</strong>: Este recurso educativo ha sido elaborado como parte del curso de Competencia Digital Docente (Nivel B2), con el objetivo de diseñar una Situación de Aprendizaje basada en el uso de metodologías activas y herramientas digitales para el estudio de los ecosistemas en Educación Primaria.</p>
+<p><strong>Licencia</strong>: Este recurso se comparte bajo licencia Creative Commons (CC BY-NC-SA), lo que permite su uso, adaptación y difusión con fines educativos, siempre que se reconozca la autoría y se comparta bajo la misma licencia.</p>
+<p><strong>Recursos utilizados</strong>:</p>
+<ul>
+<li>Imágenes y recursos visuales procedentes de bancos de imágenes libres de derechos.</li>
+<li>Herramientas digitales como Padlet, Symbaloo y otras aplicaciones educativas.</li>
+<li>Contenidos educativos adaptados de fuentes abiertas y recursos educativos en línea.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777991254794-xdlr5sz60","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong>: Carmen María Pastor López</p>\n<p><strong>Título del proyecto</strong>: Los ecosistemas</p>\n<p><strong>Descripción</strong>: Este recurso educativo ha sido elaborado como parte del curso de Competencia Digital Docente (Nivel B2), con el objetivo de diseñar una Situación de Aprendizaje basada en el uso de metodologías activas y herramientas digitales para el estudio de los ecosistemas en Educación Primaria.</p>\n<p><strong>Licencia</strong>: Este recurso se comparte bajo licencia Creative Commons (CC BY-NC-SA), lo que permite su uso, adaptación y difusión con fines educativos, siempre que se reconozca la autoría y se comparta bajo la misma licencia.</p>\n<p><strong>Recursos utilizados</strong>:</p>\n<ul>\n<li>Imágenes y recursos visuales procedentes de bancos de imágenes libres de derechos.</li>\n<li>Herramientas digitales como Padlet, Symbaloo y otras aplicaciones educativas.</li>\n<li>Contenidos educativos adaptados de fuentes abiertas y recursos educativos en línea.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
